@@ -1,0 +1,72 @@
+.Container {
+    display: flex;
+}
+
+.l {
+    height: auto;
+    width: 7%;
+    background-color: #EFC81A;
+}
+
+.r {
+    height: 900px;
+    width: 93%;
+}
+
+.ra {
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+}
+
+.rb {
+    width: 100%;
+    height: 820px;
+    display: flex;
+    border: 1px solid blue;
+}
+
+.rb1 {
+    height: 100%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.rb1-c {
+    height: 85%;
+    width: 85%;
+    display: block;
+    border: 1px solid black;
+}
+
+.rb1-c1 {
+    width: 800px;
+    height: 428px;
+    border: 1px solid black;
+}
+
+.rb2 {
+    height: 100%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.rb2-c {
+    width: 80%;
+    height: 80%;
+    border: 1px solid black;
+    background-color: #EFC81A;
+}
+
+.rb2-c1 {
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: aqua;
+}
